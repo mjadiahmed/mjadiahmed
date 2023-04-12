@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mjadiahmed
-- 👀 I’m interested in Embeded electronics, Hardware & Software developement🤖.
+- 👀 I’m interested in IOT, Embeded electronics, Robotics, Hardware & Software developement🤖.
 - 💞️ I’m looking to collaborate on IOT communication, MCU Architectures, Firmware developement.
 - 📫 How to reach me : a.mjadi@nextronic.io
- <!--- - 🌱 I’m currently learning ... --->
+- 🌱 I’m currently learning Data analyzing and exploitataion 
 
 <!---
 mjadiahmed/mjadiahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
