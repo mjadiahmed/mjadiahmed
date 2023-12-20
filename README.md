@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mjadiahmed
 - 👀 I’m interested in IOT, Embeded electronics, Robotics, Hardware & Software developement🤖.
 - 💞️ I’m looking to collaborate on IOT communication, MCU Architectures, Firmware developement.
-- 📫 How to reach me : a.mjadi@nextronic.io
+- 📫 How to reach me : a.mjadi@nextronic.io  / mjadiahmed@gmail.com
 - 🌱 I’m currently learning Data analysis and exploitataion 
 
 <!---
