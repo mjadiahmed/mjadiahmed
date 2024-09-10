@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mjadiahmed
 - 👀 As an electromechanical engineer and mechatronics project manager, my professional focus lies in the development of IoT, embedded electronics, robotics, mechatronics, and the integration of hardware and software solutions. 🤖🤖.
 - 💞️ I’m looking to collaborate on IOT communication, MCU Architectures, Firmware developement.
-- 📫 How to reach me : ahmed@symphony3d.io  / mjadiahmed@gmail.com
+- 📫 How to reach me : a.mjadi@nextronic.io  / mjadiahmed@gmail.com
 - 🌱 I’m currently learning Data analysis and exploitataion 
 
 <!---
